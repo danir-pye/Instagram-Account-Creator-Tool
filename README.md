@@ -35,7 +35,7 @@ A powerful automated solution for creating stable Instagram accounts using advan
 
 ## 📩 Contact for Purchase:
 **Telegram: [@mariabosser](https://t.me/mariabosser)**  
-_Last update: 23/07/2024_
+_Last update 
 
 > 📌 **Note**: This repository contains no source code. It serves as a landing for premium clients only.
 
@@ -63,7 +63,7 @@ _Last update: 23/07/2024_
 - 🔒 防封禁智能筛选器（姓名/地址自动优化）
 
 📩 联系购买：[Telegram @mariabosser](https://t.me/mariabosser)  
-_更新时间：2024年7月23日_
+_更新时间
 
 ---
 
@@ -89,4 +89,4 @@ _更新时间：2024年7月23日_
 - 🔒 Фильтры анти-флага (умная генерация данных)
 
 📩 Связь: [Telegram @mariabosser](https://t.me/mariabosser)  
-_Обновление: 23.07.2024_
+_Обновление:
