@@ -35,6 +35,8 @@ A powerful automated solution for creating stable Instagram accounts using advan
 
 ## 📩 Contact for Purchase:
 **Telegram: [@mariabosser](https://t.me/mariabosser)**  
+
+telegram chanel https://t.me/Sectools1
 _Last update 
 
 > 📌 **Note**: This repository contains no source code. It serves as a landing for premium clients only.
